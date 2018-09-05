@@ -1,0 +1,3 @@
+~id,~label,AccountNumber:String,Limit:Int,Balance:Int,ExpirationDate:String,SecurityCode:String
+creditcard1,CreditCard,1234567890123456,5000,1442,01-20,123
+creditcard2,CreditCard,1234567890123456,4000,2345,02-20,456

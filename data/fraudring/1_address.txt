@@ -1,0 +1,2 @@
+~id,~label,Street:String,City:String,State:String,ZipCode:String
+address1,Address,123 NW 1st Street,San Francisco,California,94101

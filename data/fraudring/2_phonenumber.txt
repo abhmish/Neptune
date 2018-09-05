@@ -1,0 +1,3 @@
+~id,~label,PhoneNumber:String
+phoneNumber1,PhoneNumber,555-555-5555
+phoneNumber2,PhoneNumber: 555-555-1234 

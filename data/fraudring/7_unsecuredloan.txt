@@ -1,0 +1,3 @@
+~id,~label,AccountNumber:String,Balance:Int,APR:String,LoanAmount:String
+unsecuredLoan2,UnsecuredLoan,4567890123456789-0,9045,0.0541,12000.00
+unsecuredLoan3,UnsecuredLoan,5678901234567890-0,16341,0.0341,22000.00

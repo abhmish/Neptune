@@ -1,0 +1,15 @@
+~id,~label,~from,~to
+id2001,HAS_ADDRESS,accountHolder1,address1
+id2002,HAS_ADDRESS,accountHolder2,address1
+id2003,HAS_ADDRESS,accountHolder3,address1
+id2004,HAS_PHONENUMBER,accountHolder1,phoneNumber1
+id2005,HAS_PHONENUMBER,accountHolder2,phoneNumber1
+id2006,HAS_SSN,accountHolder1,ssn2
+id2007,HAS_SSN,accountHolder2,ssn1
+id2008,HAS_SSN,accountHolder3,ssn1
+id2009,HAS_CREDITCARD,accountHolder1,creditcard1
+id2010,HAS_CREDITCARD,accountHolder2,creditcard2
+id2011,HAS_BANKACCOUNT,accountHolder1,bankAccount1
+id2012,HAS_BANKACCOUNT,accountHolder2,bankAccount2
+id2013,HAS_UNSECUREDLOAN,accountHolder2,unsecuredLoan2
+id2014,HAS_UNSECUREDLOAN,accountHolder3,unsecuredLoan3

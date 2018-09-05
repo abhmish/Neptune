@@ -1,0 +1,11 @@
+~id,~label,name:String,gender:String,age:String 
+Paul,Person,Paul,man,50
+Jean,Person,Jean,man,48
+Dan,Person,Dan,man,23
+Marc,Person,Marc,man,30
+John,Person,John,man,31
+Zoey,Person,Zoey,woman,52
+Ava,Person,Ava,woman,23
+Olivia,Person,Olivia,woman,58
+Mia,Person,Mia,woman,51
+Madison,Person,Madison,woman,37

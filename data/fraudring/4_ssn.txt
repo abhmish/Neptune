@@ -1,0 +1,3 @@
+~id,~label,SSN:String
+ssn1,SSN,241-23-1234
+ssn2,SSN,241-23-4567
